@@ -18,7 +18,7 @@ OBJECTS = ft_putchar.o ft_putstr.o ft_error.o main.o ft_cat.o
 
 FLAGS = -Wall -Wextra -Werror -c -I
 
-INCLUDES = includes/
+INCLUDES = include/
 
 LIB = libft.a
 
