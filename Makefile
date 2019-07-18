@@ -12,7 +12,7 @@
 
 NAME = ft_cat
 
-SRCS = srcs/ft_putchar.c srcs/ft_putstr.c srcs/ft_error.c srcs/main.c srcs/ft_cat.c
+SRCS = src/ft_putchar.c src/ft_putstr.c src/ft_error.c src/main.c src/ft_cat.c
 
 OBJECTS = ft_putchar.o ft_putstr.o ft_error.o main.o ft_cat.o
 
